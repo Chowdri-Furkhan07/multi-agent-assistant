@@ -21,6 +21,8 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 |---|---|
 | ![Summary emailed](Screenshots/Summary.png) | ![Results sent via email](Screenshots/Mail_Results.png) |
 
+---
+
 ## Features
 
 - **Weather** — current conditions for a city via the Open-Meteo API (no API key required)
