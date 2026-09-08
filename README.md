@@ -27,7 +27,7 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 
 - **Weather** - current conditions for a city via the Open-Meteo API (no API key required)
 - **Stocks** - latest OHLC price data for a ticker via `yfinance`
-- **Jokes** — a random programming joke
+- **Jokes** - a random programming joke
 - **Calendar** — creates a calendar event from a natural-language request (placeholder; not yet wired to the real Google Calendar API)
 - **Notifications** — emails a summary of results via Gmail SMTP
 - **Context tracking** — records each agent's status/result to `context.json`
