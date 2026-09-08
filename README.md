@@ -5,6 +5,8 @@ A lightweight multi-agent assistant built in Python. A small set of independent
 email notifications), coordinated either from a CLI entry point or a Streamlit
 dashboard. Agent results are tracked in a shared local JSON context file.
 
+---
+
 ## Screenshots
 
 | Dashboard | Weather | Stock information |
