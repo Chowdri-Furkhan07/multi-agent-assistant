@@ -25,7 +25,7 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 
 ## Features
 
-- **Weather** — current conditions for a city via the Open-Meteo API (no API key required)
+- **Weather** - current conditions for a city via the Open-Meteo API (no API key required)
 - **Stocks** — latest OHLC price data for a ticker via `yfinance`
 - **Jokes** — a random programming joke
 - **Calendar** — creates a calendar event from a natural-language request (placeholder; not yet wired to the real Google Calendar API)
