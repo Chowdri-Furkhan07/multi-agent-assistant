@@ -29,7 +29,7 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 - **Stocks** - latest OHLC price data for a ticker via `yfinance`
 - **Jokes** - a random programming joke
 - **Calendar** - creates a calendar event from a natural-language request (placeholder; not yet wired to the real Google Calendar API)
-- **Notifications** — emails a summary of results via Gmail SMTP
+- **Notifications** - emails a summary of results via Gmail SMTP
 - **Context tracking** — records each agent's status/result to `context.json`
 
 ## Project Structure
