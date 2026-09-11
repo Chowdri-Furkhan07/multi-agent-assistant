@@ -32,6 +32,8 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 - **Notifications** - emails a summary of results via Gmail SMTP
 - **Context tracking** - records each agent's status/result to `context.json`
 
+---
+
 ## Project Structure
 
 ```
