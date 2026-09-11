@@ -164,4 +164,4 @@ lints with `ruff check .`, and runs `pytest -v`.
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT - see [LICENSE](LICENSE) for details.
