@@ -135,6 +135,8 @@ by keyword matching:
 
 Results can then be emailed to any address from the same page.
 
+---
+
 ## Running Tests
 
 ```bash
