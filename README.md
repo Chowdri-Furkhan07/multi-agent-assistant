@@ -150,6 +150,8 @@ weather error handling, calendar event creation/validation).
 `c.yml` runs on every push/PR to `main`: installs `requirements-dev.txt`,
 lints with `ruff check .`, and runs `pytest -v`.
 
+---
+
 ## Known Limitations
 
 - The calendar agent does not call the real Google Calendar API - it returns
