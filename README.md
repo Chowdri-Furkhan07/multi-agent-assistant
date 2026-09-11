@@ -158,6 +158,8 @@ lints with `ruff check .`, and runs `pytest -v`.
 - The Streamlit router uses simple keyword matching, not NLU, so ambiguous
   queries may route incorrectly.
 
+---
+
 ## Author
 
 **Chowdri Furkhan** - [github.com/Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
