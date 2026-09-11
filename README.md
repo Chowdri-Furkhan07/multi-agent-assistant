@@ -152,7 +152,7 @@ lints with `ruff check .`, and runs `pytest -v`.
 
 ## Known Limitations
 
-- The calendar agent does not call the real Google Calendar API — it returns
+- The calendar agent does not call the real Google Calendar API - it returns
   a placeholder event link.
 - Email sending is Gmail-SMTP only; no support for other providers.
 - The Streamlit router uses simple keyword matching, not NLU, so ambiguous
