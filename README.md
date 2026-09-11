@@ -164,6 +164,8 @@ lints with `ruff check .`, and runs `pytest -v`.
 
 **Chowdri Furkhan** - [github.com/Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 
+---
+
 ## License
 
 MIT - see [LICENSE](LICENSE) for details.
