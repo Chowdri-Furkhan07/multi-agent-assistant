@@ -80,6 +80,8 @@ For running tests and linting locally:
 pip install -r requirements-dev.txt
 ```
 
+---
+
 ## Configuration
 
 Create a `.env` file in the project root (loaded automatically via
