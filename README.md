@@ -114,6 +114,8 @@ placeholder - wiring it up to the real Google Calendar API requires
 `google-api-python-client` and OAuth credentials, added inside
 `_create_google_calendar_event`.
 
+---
+
 ## Usage
 
 ### CLI
