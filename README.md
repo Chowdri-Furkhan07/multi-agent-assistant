@@ -98,7 +98,7 @@ EMAIL_PASSWORD=your_gmail_app_password
 # Optional — defaults to AAPL if not set
 DEFAULT_STOCK_TICKER=AAPL
 
-# Optional — defaults to context.json if not set
+# Optional - defaults to context.json if not set
 CONTEXT_FILE=context.json
 ```
 
