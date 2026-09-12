@@ -70,6 +70,8 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 - Python 3.11+
 - Dependencies listed in `requirements.txt`
 
+---
+
 ## Installation
 
 ```bash
