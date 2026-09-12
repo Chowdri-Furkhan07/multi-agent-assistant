@@ -63,6 +63,8 @@ dashboard. Agent results are tracked in a shared local JSON context file.
 > package. "MCP" in this project's history refers only to the local JSON
 > context file, not Anthropic's Model Context Protocol.
 
+---
+
 ## Requirements
 
 - Python 3.11+
