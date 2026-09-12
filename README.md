@@ -99,7 +99,7 @@ NOTIFY_EMAIL=recipient@example.com
 EMAIL_SENDER=your_gmail_address@gmail.com
 EMAIL_PASSWORD=your_gmail_app_password
 
-# Optional — defaults to AAPL if not set
+# Optional - defaults to AAPL if not set
 DEFAULT_STOCK_TICKER=AAPL
 
 # Optional - defaults to context.json if not set
