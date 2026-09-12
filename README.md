@@ -110,7 +110,7 @@ CONTEXT_FILE=context.json
 not your regular account password. Keep `.env` out of source control.
 
 The weather agent needs no API key (Open-Meteo). The calendar agent is a
-placeholder — wiring it up to the real Google Calendar API requires
+placeholder - wiring it up to the real Google Calendar API requires
 `google-api-python-client` and OAuth credentials, added inside
 `_create_google_calendar_event`.
 
