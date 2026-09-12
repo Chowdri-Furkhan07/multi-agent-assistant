@@ -94,7 +94,7 @@ Create a `.env` file in the project root (loaded automatically via
 `python-dotenv`):
 
 ```env
-# Optional — used by main.py to email a daily summary
+# Optional - used by main.py to email a daily summary
 NOTIFY_EMAIL=recipient@example.com
 EMAIL_SENDER=your_gmail_address@gmail.com
 EMAIL_PASSWORD=your_gmail_app_password
