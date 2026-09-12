@@ -155,6 +155,8 @@ pytest -v
 credentials or network calls that can't be sandboxed (joke generation,
 weather error handling, calendar event creation/validation).
 
+---
+
 ## Continuous Integration
 
 `c.yml` runs on every push/PR to `main`: installs `requirements-dev.txt`,
